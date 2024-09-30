@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+app/.env
+vectorstore
+temp
+.DS_Store
